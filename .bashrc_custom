@@ -1,1 +1,1 @@
-
+export SOFTHSM_CONF=/home/mark/.softhsm.conf
